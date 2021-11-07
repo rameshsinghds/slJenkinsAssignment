@@ -12,22 +12,30 @@ class SampleprjApplicationTests {
 
 	@Test
 	void dummyTest1() {
-		assertTrue(true);
+		if (true == true) {
+			int i = 1;
+		}
 	}
 
 	@Test
 	void dummyTest2() {
-		assertTrue(true);
+		if (true == true) {
+			int i = 1;
+		}
 	}
 
 	@Test
 	void dummyTest3() {
-		assertTrue(true);
+		if (true == true) {
+			int i = 1;
+		}
 	}
 
 	@Test
 	void dummyTest4() {
-		assertTrue(true);
+		if (true == true) {
+			int i = 1;
+		}
 	}
 
 }
